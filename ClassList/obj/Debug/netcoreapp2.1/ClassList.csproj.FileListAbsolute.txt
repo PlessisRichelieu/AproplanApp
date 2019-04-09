@@ -1,0 +1,17 @@
+C:\Users\Niki\source\repos\AproplanDocumentApp\ClassList\bin\Debug\netcoreapp2.1\ClassList.deps.json
+C:\Users\Niki\source\repos\AproplanDocumentApp\ClassList\bin\Debug\netcoreapp2.1\ClassList.dll
+C:\Users\Niki\source\repos\AproplanDocumentApp\ClassList\obj\Debug\netcoreapp2.1\ClassList.csproj.CoreCompileInputs.cache
+C:\Users\Niki\source\repos\AproplanDocumentApp\ClassList\obj\Debug\netcoreapp2.1\ClassList.AssemblyInfoInputs.cache
+C:\Users\Niki\source\repos\AproplanDocumentApp\ClassList\obj\Debug\netcoreapp2.1\ClassList.AssemblyInfo.cs
+C:\Users\Niki\source\repos\AproplanDocumentApp\ClassList\bin\Debug\netcoreapp2.1\ClassList.pdb
+C:\Users\Niki\source\repos\AproplanDocumentApp\ClassList\obj\Debug\netcoreapp2.1\ClassList.dll
+C:\Users\Niki\source\repos\AproplanDocumentApp\ClassList\obj\Debug\netcoreapp2.1\ClassList.pdb
+C:\Users\Niki\Desktop\AproplanDocumentApp\AproplanDocumentApp\ClassList\bin\Debug\netcoreapp2.1\ClassList.deps.json
+C:\Users\Niki\Desktop\AproplanDocumentApp\AproplanDocumentApp\ClassList\bin\Debug\netcoreapp2.1\ClassList.dll
+C:\Users\Niki\Desktop\AproplanDocumentApp\AproplanDocumentApp\ClassList\bin\Debug\netcoreapp2.1\ClassList.pdb
+C:\Users\Niki\Desktop\AproplanDocumentApp\AproplanDocumentApp\ClassList\obj\Debug\netcoreapp2.1\ClassList.csprojAssemblyReference.cache
+C:\Users\Niki\Desktop\AproplanDocumentApp\AproplanDocumentApp\ClassList\obj\Debug\netcoreapp2.1\ClassList.csproj.CoreCompileInputs.cache
+C:\Users\Niki\Desktop\AproplanDocumentApp\AproplanDocumentApp\ClassList\obj\Debug\netcoreapp2.1\ClassList.AssemblyInfoInputs.cache
+C:\Users\Niki\Desktop\AproplanDocumentApp\AproplanDocumentApp\ClassList\obj\Debug\netcoreapp2.1\ClassList.AssemblyInfo.cs
+C:\Users\Niki\Desktop\AproplanDocumentApp\AproplanDocumentApp\ClassList\obj\Debug\netcoreapp2.1\ClassList.dll
+C:\Users\Niki\Desktop\AproplanDocumentApp\AproplanDocumentApp\ClassList\obj\Debug\netcoreapp2.1\ClassList.pdb
