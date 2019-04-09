@@ -13,8 +13,6 @@ namespace ConsoleApp1
 
             string Entities = string.Join(" ", TaskExecutor.Entities.ToArray());
 
-            Console.WriteLine(Entities);
-
             using (var db = new AproPlanDocumentAppContext())
             {
                 db.Add(new Entities { Information = Entities });
