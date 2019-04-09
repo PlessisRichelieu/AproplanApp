@@ -28,6 +28,11 @@ namespace ClassList
                  ProjectId = await PrProcessor.GetProjectId(Authentication);
                  Entities = await DcProcessor.GetEntities(Authentication, ProjectId);
                  DocumentIds = await DcProcessor.GetDocumentIds(Authentication, ProjectId);
+                
+                for (int i=0; i<DocumentIds.Length; i++)
+                 {
+                    ServerResponse = await DcProcessor.DownloadDocuments(Authentication, ProjectId, DocumentIds[i]);
+                 }
                                    
             }
 
