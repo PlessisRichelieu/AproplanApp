@@ -11,13 +11,13 @@ namespace ConsoleApp1
         {
             TaskExecutor.RunAsync().GetAwaiter().GetResult();
 
-            string Entities = string.Join(" ", TaskExecutor.Entities.ToArray());
+             /* string Entities = string.Join(" ", TaskExecutor.Entities.ToArray());
 
             using (var db = new AproPlanDocumentAppContext())
             {
                 db.Add(new Entities { Information = Entities });
                 db.SaveChanges();
-            }
+            }*/
 
             
         }
